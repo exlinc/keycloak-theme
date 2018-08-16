@@ -4,4 +4,4 @@ Derived from the [keycloak/keycloak](https://github.com/keycloak/keycloak/tree/m
 
 ## Keycloak Theme Developer Docs
 
-https://www.keycloak.org/docs/3.4/server_development/#_themes
+[Keycloak Docs](https://www.keycloak.org/docs/4.1/server_development/#_themes)
