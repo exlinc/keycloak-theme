@@ -70,6 +70,10 @@
             </div>
             </#if>
 
+            <div>
+                <input style="margin-bottom: 8px;" type="checkbox" id="exl-agree-tos" name="exl-agree-tos" required /> I agree to the <a href="https://exlinc.com/legal#privacy-statement" rel="noopener" target="_blank">privacy policy</a> and <a href="https://exlinc.com/en/legal/#terms-of-service" rel="noopener" target="_blank">terms of service</a>.
+            </div>
+
             <div class="${properties.kcFormGroupClass!}">
                 <div id="kc-form-options" class="${properties.kcFormOptionsClass!}">
                     <div class="${properties.kcFormOptionsWrapperClass!}">
